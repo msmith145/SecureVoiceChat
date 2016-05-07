@@ -1,0 +1,2 @@
+# SecureVoiceChat
+The main purpose of this project was to develop and implement a secure voice chat web-based application. The end goal being able to give multiple end users the functionality of audio communication through their web browser; two-way communication that is both reliable and, more importantly, secure. The main methods I used to produce this application include BLOB conversions, RC4 stream cipher, Authentication Protocol 4.0 and ASP.NET SignalR. 
